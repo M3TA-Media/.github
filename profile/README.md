@@ -23,7 +23,9 @@ M3TA Media is an independent marketing agency for Web3 and iGaming brands, worki
 - Website design and development
 
 **Sectors**
+
 Web3 and crypto · Casino and iGaming · Sportsbook and sweepstakes · Fintech and trading · Gaming and esports · Sports and entertainment
 
 **On GitHub**
+
 This is where we build the internal tools behind our campaigns: creator analytics, Telegram workflows and reporting. Most of it is private.
